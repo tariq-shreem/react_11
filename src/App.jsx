@@ -17,6 +17,7 @@ export default function App() {
 
   return (
     <>
+     <h1>Hello , i'm front end dev</h1>
      <CustomButton text='Add User' type='create' />
     
     <div className='users'>
@@ -25,6 +26,6 @@ export default function App() {
       )}
     </div>
 
-    </>
+    </h1>
   )
 }
